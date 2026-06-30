@@ -13,8 +13,8 @@
 class Addsong < Formula
   desc "Download a song from a URL and auto-import it into Apple Music"
   homepage "https://github.com/ado11231/addsong"
-  url "https://github.com/ado11231/addsong/archive/refs/tags/v1.4.0.tar.gz"
-  sha256 "e7bc2ea1cd27db11c124a872635af6eddd9a3f0bebdc7a5d9299d694bf340f04"
+  url "https://github.com/ado11231/addsong/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "d2be13cb705f4f802172532078ddebb77bf34aa663841b0a18cc0aa257b75096"
   license "MIT"
 
   depends_on "ffmpeg"
